@@ -1,0 +1,7 @@
+*.csv
+*.crc
+out3/*
+target/*
+*.class
+*.jar
+*.txt
